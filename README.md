@@ -1,5 +1,3 @@
-# README
-
 ## Description
 
 Cette application Streamlit est une interface de connexion avec authentification utilisant `streamlit_authenticator`, ainsi qu'un menu de navigation basé sur `streamlit_option_menu`. Une fois connecté, l'utilisateur peut accéder à un contenu réservé et naviguer entre la page d'accueil et la galerie photo.
